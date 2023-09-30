@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Yue Hu</title>
+    <link>https://yuehu.github.io/publication-type/2/</link>
+      <atom:link href="https://yuehu.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yuehu.github.io/media/icon_hufe4902d8a3e296f954ced894ecfc599d_303890_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://yuehu.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Aerial monocular 3d object detection [RAL2023]</title>
+      <link>https://yuehu.github.io/publication/hu-aerial-2023/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://yuehu.github.io/publication/hu-aerial-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
