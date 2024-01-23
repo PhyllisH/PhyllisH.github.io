@@ -29,6 +29,22 @@
     </item>
     
     <item>
+      <title>An Extensible Framework for Open Heterogeneous Collaborative Perception [ICLR2023]</title>
+      <link>https://yuehu.github.io/publication/lu-heal-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://yuehu.github.io/publication/lu-heal-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asynchrony-Robust Collaborative Perception via Bird&#39;s Eye View Flow [NeurIPS2023]</title>
+      <link>https://yuehu.github.io/publication/wei-cobevflow-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://yuehu.github.io/publication/wei-cobevflow-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Category Query Learning for Human-Object Interaction Classification [CVPR2023]</title>
       <link>https://yuehu.github.io/publication/xie-hoi-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -176,8 +192,10 @@
 
 
 
+&lt;p&gt;&lt;strong&gt;[Jan. 2024]&lt;/strong&gt; &lt;a href=&#34;https://openreview.net/pdf?id=KkrDUGIASk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HEAL&lt;/a&gt; is accepted by ICLR 2023&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Nov. 2023]&lt;/strong&gt; &lt;a href=&#34;https://openreview.net/pdf?id=UHIDdtxmVS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoBEVFlow&lt;/a&gt; is accepted by NeurIPS 2023&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Apr. 2023]&lt;/strong&gt; &lt;a href=&#34;https://github.com/MediaBrain-SJTU/CoCa3D&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoCa3D&lt;/a&gt; is reported by &lt;a href=&#34;https://www.jiqizhixin.com/articles/2023-04-25-11&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;机器之心&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[Mar. 2023]&lt;/strong&gt; Two papers are accepted to The Conference on CVPR 2023&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Mar. 2023]&lt;/strong&gt; Two papers are accepted to CVPR 2023&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Jan. 2023]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2208.03974&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aerial Monocular 3D Object Detection&lt;/a&gt; is accepted to IEEE Robotics and Automation Letters&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Oct. 2022]&lt;/strong&gt; &lt;a href=&#34;https://github.com/MediaBrain-SJTU/where2comm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Where2comm&lt;/a&gt; is reported by &lt;a href=&#34;https://www.jiqizhixin.com/articles/2022-10-11-28&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;机器之心&lt;/a&gt; and &lt;a href=&#34;https://www.techbeat.net/talk-info?id=727&amp;amp;utm_campaign=1103%E8%83%A1%E6%82%A6&amp;amp;utm_medium=%E7%9F%A5%E4%B9%8E&amp;amp;utm_source=%E7%9F%A5%E4%B9%8E&amp;amp;gio_link_id=EoZAjykP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;将门创投&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Sep. 2022]&lt;/strong&gt; One paper is accepted to NeurIPS 2022 Spotlight(&lt;strong&gt;Top5%&lt;/strong&gt;)&lt;/p&gt;
