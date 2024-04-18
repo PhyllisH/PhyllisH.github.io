@@ -5,12 +5,44 @@
     <link>https://yuehu.github.io/</link>
       <atom:link href="https://yuehu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yue Hu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yuehu.github.io/media/icon_hufe4902d8a3e296f954ced894ecfc599d_303890_512x512_fill_lanczos_center_3.png</url>
       <title>Yue Hu</title>
       <link>https://yuehu.github.io/</link>
     </image>
+    
+    <item>
+      <title>An Extensible Framework for Open Heterogeneous Collaborative Perception [ICLR2024]</title>
+      <link>https://yuehu.github.io/publication/lu-heal-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://yuehu.github.io/publication/lu-heal-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication-Efficient Collaborative Perception via Information Filling with Codebook [CVPR2024]</title>
+      <link>https://yuehu.github.io/publication/hu-codefilling-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://yuehu.github.io/publication/hu-codefilling-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pragmatic Communication in Multi-Agent Collaborative Perception [TPAMI Submitted]</title>
+      <link>https://yuehu.github.io/publication/hu-pragcomm-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://yuehu.github.io/publication/hu-pragcomm-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Collaborative Autonomous Driving Simulation Platform and End-to-End System [TPAMI Submitted]</title>
+      <link>https://yuehu.github.io/publication/liu-v2xverse-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://yuehu.github.io/publication/liu-v2xverse-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Collaboration Helps Camera Overtake LiDAR in 3D Detection [CVPR2023]</title>
@@ -25,14 +57,6 @@
       <link>https://yuehu.github.io/publication/hu-aerial-2023/</link>
       <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://yuehu.github.io/publication/hu-aerial-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Extensible Framework for Open Heterogeneous Collaborative Perception [ICLR2023]</title>
-      <link>https://yuehu.github.io/publication/lu-heal-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://yuehu.github.io/publication/lu-heal-2023/</guid>
       <description></description>
     </item>
     
@@ -192,7 +216,8 @@
 
 
 
-&lt;p&gt;&lt;strong&gt;[Jan. 2024]&lt;/strong&gt; &lt;a href=&#34;https://openreview.net/pdf?id=KkrDUGIASk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HEAL&lt;/a&gt; is accepted by ICLR 2023&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Feb. 2024]&lt;/strong&gt; &lt;a href=&#34;https://openreview.net/forum?id=VFYX0SS8je&amp;amp;noteId=xrRordmNUG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CodeFilling&lt;/a&gt; is accepted by CVPR 2024&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Jan. 2024]&lt;/strong&gt; &lt;a href=&#34;https://openreview.net/pdf?id=KkrDUGIASk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HEAL&lt;/a&gt; is accepted by ICLR 2024&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Nov. 2023]&lt;/strong&gt; &lt;a href=&#34;https://openreview.net/pdf?id=UHIDdtxmVS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoBEVFlow&lt;/a&gt; is accepted by NeurIPS 2023&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Apr. 2023]&lt;/strong&gt; &lt;a href=&#34;https://github.com/MediaBrain-SJTU/CoCa3D&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoCa3D&lt;/a&gt; is reported by &lt;a href=&#34;https://www.jiqizhixin.com/articles/2023-04-25-11&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;机器之心&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Mar. 2023]&lt;/strong&gt; Two papers are accepted to CVPR 2023&lt;/p&gt;
