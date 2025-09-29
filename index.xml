@@ -5,12 +5,36 @@
     <link>https://yuehu.github.io/</link>
       <atom:link href="https://yuehu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yue Hu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yuehu.github.io/media/icon_hufe4902d8a3e296f954ced894ecfc599d_303890_512x512_fill_lanczos_center_3.png</url>
       <title>Yue Hu</title>
       <link>https://yuehu.github.io/</link>
     </image>
+    
+    <item>
+      <title>BeliefMapNav: 3D voxel-based belief map for zero-shot object navigation [NeurIPS]</title>
+      <link>https://yuehu.github.io/publication/zhou-beleifmap-2025/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://yuehu.github.io/publication/zhou-beleifmap-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imaginative world modeling with scene graphs for embodied agent navigation [ICCV Demo Track]</title>
+      <link>https://yuehu.github.io/publication/hu-sgimaginenav-2025/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://yuehu.github.io/publication/hu-sgimaginenav-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NegoCollab: A Common Representation Negotiation Approach for Heterogeneous Collaborative Perception [NeurIPS]</title>
+      <link>https://yuehu.github.io/publication/shao-negocolla-2025/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://yuehu.github.io/publication/shao-negocolla-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Self-Evolving Multi-Agent Collaboration Networks for Software Development [ICLR 2025]</title>
@@ -224,6 +248,8 @@
 
 
 
+&lt;p&gt;&lt;strong&gt;[Sep. 2025]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2506.06487&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BeliefMapNav&lt;/a&gt; and &lt;a href=&#34;https://neurips.cc/virtual/2025/poster/119565&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NegoCollab&lt;/a&gt; is accepted by NeurIPS 2025&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Aug. 2025]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2508.06990&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SGImagineNav&lt;/a&gt; is accepted by ICCV Demo Track 2025&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Apr. 2025]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2404.09496&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;V2XVerse&lt;/a&gt; is accepted by TPAMI 2025&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Mar. 2025]&lt;/strong&gt; &lt;a href=&#34;https://mas-2025.github.io/MAS-2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MAS&lt;/a&gt; workshop proposal is accepted by ICML 2025&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Feb. 2025]&lt;/strong&gt; &lt;a href=&#34;https://openreview.net/forum?id=4R71pdPBZp&amp;amp;noteId=VXbq0eSSQc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EvoMAC&lt;/a&gt; is accepted by ICLR 2025&lt;/p&gt;
