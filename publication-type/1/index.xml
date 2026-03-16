@@ -61,10 +61,18 @@
     </item>
     
     <item>
-      <title>Pragmatic Communication in Multi-Agent Collaborative Perception [TPAMI Submitted]</title>
+      <title>Pragmatic Communication in Multi-Agent Collaborative Perception [TPAMI 2026]</title>
       <link>https://yuehu.github.io/publication/hu-pragcomm-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://yuehu.github.io/publication/hu-pragcomm-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rate-Distortion Optimized Communication for Collaborative Perception [ICLR 2026]</title>
+      <link>https://yuehu.github.io/publication/liu-rdcomm-2026/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://yuehu.github.io/publication/liu-rdcomm-2026/</guid>
       <description></description>
     </item>
     
@@ -97,6 +105,14 @@
       <link>https://yuehu.github.io/publication/xie-hoi-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://yuehu.github.io/publication/xie-hoi-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling the Impact of Data and Model Scaling on High-Level Control for Humanoid Robots [ICRA 2026]</title>
+      <link>https://yuehu.github.io/publication/wei-humanmotion-2026/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://yuehu.github.io/publication/wei-humanmotion-2026/</guid>
       <description></description>
     </item>
     
