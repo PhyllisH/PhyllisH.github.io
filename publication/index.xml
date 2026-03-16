@@ -5,12 +5,36 @@
     <link>https://yuehu.github.io/publication/</link>
       <atom:link href="https://yuehu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yuehu.github.io/media/icon_hufe4902d8a3e296f954ced894ecfc599d_303890_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://yuehu.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Pragmatic Communication in Multi-Agent Collaborative Perception [TPAMI 2026]</title>
+      <link>https://yuehu.github.io/publication/hu-pragcomm-2024/</link>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://yuehu.github.io/publication/hu-pragcomm-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rate-Distortion Optimized Communication for Collaborative Perception [ICLR 2026]</title>
+      <link>https://yuehu.github.io/publication/liu-rdcomm-2026/</link>
+      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://yuehu.github.io/publication/liu-rdcomm-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling the Impact of Data and Model Scaling on High-Level Control for Humanoid Robots [ICRA 2026]</title>
+      <link>https://yuehu.github.io/publication/wei-humanmotion-2026/</link>
+      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://yuehu.github.io/publication/wei-humanmotion-2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BeliefMapNav: 3D voxel-based belief map for zero-shot object navigation [NeurIPS 2025]</title>
@@ -61,22 +85,6 @@
     </item>
     
     <item>
-      <title>Pragmatic Communication in Multi-Agent Collaborative Perception [TPAMI 2026]</title>
-      <link>https://yuehu.github.io/publication/hu-pragcomm-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://yuehu.github.io/publication/hu-pragcomm-2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rate-Distortion Optimized Communication for Collaborative Perception [ICLR 2026]</title>
-      <link>https://yuehu.github.io/publication/liu-rdcomm-2026/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://yuehu.github.io/publication/liu-rdcomm-2026/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Towards Collaborative Autonomous Driving Simulation Platform and End-to-End System [TPAMI 2025]</title>
       <link>https://yuehu.github.io/publication/liu-v2xverse-2025/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
@@ -113,14 +121,6 @@
       <link>https://yuehu.github.io/publication/xie-hoi-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://yuehu.github.io/publication/xie-hoi-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unveiling the Impact of Data and Model Scaling on High-Level Control for Humanoid Robots [ICRA 2026]</title>
-      <link>https://yuehu.github.io/publication/wei-humanmotion-2026/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://yuehu.github.io/publication/wei-humanmotion-2026/</guid>
       <description></description>
     </item>
     
