@@ -5,7 +5,7 @@
     <link>https://yuehu.github.io/publication-type/1/</link>
       <atom:link href="https://yuehu.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yuehu.github.io/media/icon_hufe4902d8a3e296f954ced894ecfc599d_303890_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>LongNav-R1: Horizon-Adaptive Multi-Turn RL for Long-Horizon VLA Navigation [RSS 2026]</title>
+      <link>https://yuehu.github.io/publication/hu-longnav-2026/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://yuehu.github.io/publication/hu-longnav-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pragmatic Communication in Multi-Agent Collaborative Perception [TPAMI 2026]</title>
-      <link>https://yuehu.github.io/publication/hu-pragcomm-2024/</link>
+      <link>https://yuehu.github.io/publication/hu-pragcomm-2026/</link>
       <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://yuehu.github.io/publication/hu-pragcomm-2024/</guid>
+      <guid>https://yuehu.github.io/publication/hu-pragcomm-2026/</guid>
       <description></description>
     </item>
     
